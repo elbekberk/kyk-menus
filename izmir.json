@@ -1,0 +1,66 @@
+{
+  "city": "İzmir",
+  "menus": {
+    "2025-12-03": {
+      "breakfast": {
+        "main": [
+          "Beyaz peynir",
+          "Kaşar peyniri",
+          "Zeytin",
+          "Domates - Salatalık",
+          "Haşlanmış yumurta"
+        ],
+        "soups": [],
+        "extras": [
+          "Bal",
+          "Tereyağı",
+          "Reçel",
+          "Ekmek"
+        ],
+        "desserts": []
+      },
+      "dinner": {
+        "main": [
+          "İzmir köfte",
+          "Pirinç pilavı"
+        ],
+        "soups": [
+          "Ezogelin çorbası"
+        ],
+        "extras": [],
+        "desserts": [
+          "Revani"
+        ]
+      }
+    },
+    "2025-12-04": {
+      "breakfast": {
+        "main": [
+          "Beyaz peynir",
+          "Zeytin",
+          "Domates - Salatalık"
+        ],
+        "soups": [],
+        "extras": [
+          "Bal",
+          "Reçel",
+          "Tereyağı"
+        ],
+        "desserts": []
+      },
+      "dinner": {
+        "main": [
+          "Tavuk sote",
+          "Bulgur pilavı"
+        ],
+        "soups": [
+          "Mercimek çorbası"
+        ],
+        "extras": [],
+        "desserts": [
+          "Sütlaç"
+        ]
+      }
+    }
+  }
+}
