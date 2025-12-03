@@ -8,13 +8,14 @@
           "Kaşar peyniri",
           "Zeytin",
           "Domates - Salatalık",
-          "Haşlanmış yumurta"
+          "Haşlanmış yumurta",
+          "Haşlanmış Gergedan Yarrağı"
         ],
         "soups": [],
         "extras": [
           "Bal",
-          "Tereyağı",
           "Reçel",
+          "Tereyağı",
           "Ekmek"
         ],
         "desserts": []
@@ -29,7 +30,7 @@
         ],
         "extras": [],
         "desserts": [
-          "Revani"
+          "Sütlaç"
         ]
       }
     },
@@ -44,7 +45,8 @@
         "extras": [
           "Bal",
           "Reçel",
-          "Tereyağı"
+          "Tereyağı",
+          "Ekmek"
         ],
         "desserts": []
       },
@@ -58,7 +60,7 @@
         ],
         "extras": [],
         "desserts": [
-          "Sütlaç"
+          "Revani"
         ]
       }
     }
